@@ -1,0 +1,7 @@
+The main game loop consists of a shark eating different types of fish where some fish get you points and some lose you points.
+We can have both HP and score as two different ways of penalizing the player.
+Mouse control can be the way to move the shark.
+Maybe add speed as another negative feedback loop.
+
+
+-need to update the shark health
